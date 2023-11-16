@@ -1,6 +1,6 @@
 # AgeAnnoMO
 
-Citation: Huang, Kexin, et al. "AgeAnnoMO: a knowledgebase of multi-omics annotation for animal aging." Nucleic Acids Research (2023): gkad884.
+Citation: [Huang, Kexin, et al. "AgeAnnoMO: a knowledgebase of multi-omics annotation for animal aging." Nucleic Acids Research (2023): gkad884.](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad884/7321067)
 
 Weblink: https://relab.xidian.edu.cn/AgeAnnoMO/#/
 
